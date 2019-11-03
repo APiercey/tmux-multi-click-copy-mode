@@ -1,4 +1,4 @@
-# tmux-multi-click-copy-mode
+# TMUX Multi Click Copy Mode
 This plugin emeulates more natural text selection behaviour when uisng a mouse.
 
 Double-clicking the middle of a word will select the entire word and move TMUX into copy-mode.
